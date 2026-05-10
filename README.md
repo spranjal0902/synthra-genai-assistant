@@ -48,14 +48,9 @@ The application allows users to interact with an LLM-powered assistant through d
 
 ## Screenshots
 
-Add screenshots of your app here after deployment.
-
-Example:
-
-```md
 ![Synthra UI](synthra-ui.png)
-![Synthra UI](synthra-ui-2.png)
-```
+
+![Synthra Chat Interface](synthra-ui-2.png)
 
 ## How It Works
 
