@@ -137,13 +137,10 @@ python -m streamlit run streamlit_app.py
 
 The app is deployed using Streamlit Community Cloud.
 
-For deployment, add the following secret in Streamlit Cloud:
+For deployment, the Groq API key is stored securely using Streamlit Secrets:
 
 ```toml
 GROQ_API_KEY = "your_groq_api_key_here"
-```
-
-Do not upload your `.env` file to GitHub.
 
 ## Project Structure
 
