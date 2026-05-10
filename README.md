@@ -141,6 +141,7 @@ For deployment, the Groq API key is stored securely using Streamlit Secrets:
 
 ```toml
 GROQ_API_KEY = "your_groq_api_key_here"
+```
 
 ## Project Structure
 
