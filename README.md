@@ -53,7 +53,8 @@ Add screenshots of your app here after deployment.
 Example:
 
 ```md
-screenshots/synthra-ui.png
+![Synthra UI](synthra-ui.png)
+![Synthra UI](synthra-ui-2.png)
 ```
 
 ## How It Works
