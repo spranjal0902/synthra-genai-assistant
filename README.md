@@ -1,7 +1,7 @@
 # Synthra — GenAI Assistant using LLaMA 3.3 and Groq
 
 Synthra is a browser-based GenAI assistant built with Python, Streamlit, Groq API, and LLaMA 3.3.  
-It is designed to support AI learning, career guidance, professional writing, summarization, and GenAI interview preparation.
+It supports AI learning, career guidance, professional writing, summarization, and GenAI interview preparation.
 
 ## Live Demo
 
@@ -43,8 +43,8 @@ The application allows users to interact with an LLM-powered assistant through d
 - Groq API
 - LLaMA 3.3 70B
 - Prompt Engineering
-- Session State Memory
-- dotenv
+- Streamlit Session State
+- python-dotenv
 
 ## Screenshots
 
@@ -78,18 +78,23 @@ Streamlit Chat UI
 ## Assistant Modes
 
 ### AI Tutor
+
 Explains AI, GenAI, and LLM concepts in beginner-friendly language.
 
 ### Career Mentor
+
 Provides guidance for students and early-career professionals targeting AI, GenAI, and LLM roles.
 
 ### Email Rewriter
+
 Rewrites informal text into polished professional communication.
 
 ### Text Summarizer
+
 Summarizes long text into clear and structured points.
 
 ### Interview Coach
+
 Helps users prepare for GenAI and LLM internship interviews.
 
 ## Installation and Local Setup
@@ -149,6 +154,8 @@ synthra-genai-assistant/
 ├── prompts.py            # System prompt configuration
 ├── requirements.txt      # Project dependencies
 ├── .gitignore            # Files excluded from GitHub
+├── synthra-ui.png        # App screenshot
+├── synthra-ui-2.png      # Chat interface screenshot
 └── README.md             # Project documentation
 ```
 
